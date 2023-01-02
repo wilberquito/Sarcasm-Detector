@@ -2,7 +2,6 @@ pandas
 matplotlib
 seaborn
 nltk
-https://github.com/sulunemre/word_cloud/releases/download/2/wordcloud-0.post1+gd8241b5-cp39-cp39-win_amd64.whl
 wordcloud
 scikit-learn
 jupyterlab
